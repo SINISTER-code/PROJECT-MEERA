@@ -35,14 +35,14 @@ $(document).ready(function(){
 
     // typing text animation script
     var typed = new Typed(".typing", {
-        strings: ["Save Corals", "Help Marine lives", "Save Oceans", "Help Enviroment", "Help you donate"],
+        strings: ["Save Corals", "Help Marine lives", "Save Oceans", "Help Environment", "Help you donate"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
     });
 
     var typed = new Typed(".typing-2", {
-        strings: ["Save Corals", "Help Marine lives", "Save Oceans", "Help Enviroment", "Help you donate"],
+        strings: ["Save Corals", "Help Marine lives", "Save Oceans", "Help Environment", "Help you donate"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
